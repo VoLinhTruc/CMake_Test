@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\Bico\HOC\CMake\Test\Test_1\main.cpp">
+    <ClCompile Include="E:\HOC\CMake\CMake_Test\Test_1\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Bico\HOC\CMake\Test\Test_1\CMakeLists.txt" />
+    <CustomBuild Include="E:\HOC\CMake\CMake_Test\Test_1\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{95395FDD-02D9-3778-9590-E250EEAD541D}</UniqueIdentifier>
+      <UniqueIdentifier>{8AD3EBA3-A969-3604-8486-8C8CA1AAA84D}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -1,3 +1,3 @@
-D:/Bico/HOC/CMake/Test/Test_1/build/CMakeFiles/cmake-good.dir
-D:/Bico/HOC/CMake/Test/Test_1/build/CMakeFiles/ALL_BUILD.dir
-D:/Bico/HOC/CMake/Test/Test_1/build/CMakeFiles/ZERO_CHECK.dir
+E:/HOC/CMake/CMake_Test/Test_1/build/CMakeFiles/cmake-good.dir
+E:/HOC/CMake/CMake_Test/Test_1/build/CMakeFiles/ALL_BUILD.dir
+E:/HOC/CMake/CMake_Test/Test_1/build/CMakeFiles/ZERO_CHECK.dir
