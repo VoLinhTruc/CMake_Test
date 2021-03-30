@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Bico/HOC/CMake/Test/Test_4/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\Bico\\HOC\\CMake\\Test\\Test_4\\main.cpp",
+  "file": "D:/Bico/HOC/CMake/Test/Test_4/main.cpp"
+}
+]

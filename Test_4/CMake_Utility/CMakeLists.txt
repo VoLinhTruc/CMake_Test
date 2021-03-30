@@ -1,0 +1,12 @@
+# Get all recursive dir containing *.h file
+MACRO(INC_DIRECTORIES_RECURSIVE selected_dir return_list)
+    FILE(GLOB_RECURSE new_list RELATIVE ${selected_dir} "*.h")
+    SET(dir_list "")
+    FOREACH(file_path ${new_list})
+        GET_FILENAME_COMPONENT(dir_path ${file_path} PATH)
+        SET(dir_list ${dir_list}  ${selected_dir} "/" ${dir_path})
+    ENDFOREACH()
+    # LIST(REMOVE_DUPLICATES dir_list)
+    SET(${return_list} ${dir_list})
+ENDMACRO()
+# HEADER_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR} all_inc_dir)
